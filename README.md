@@ -1,5 +1,5 @@
 # Smsbomber
-Smsbomber fast for iranian                    
+Smsbomber fast for Iranians                   
 very fast 
 telegram id = @Blackshot01
 
